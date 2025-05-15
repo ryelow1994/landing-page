@@ -1,0 +1,14 @@
+.control{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 5px;
+padding: 5px;
+}
+.input{
+    padding: 10px;
+}
+
+#search-button{
+    width: 100%;
+}
